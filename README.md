@@ -1,4 +1,4 @@
-```C++
+```python
 #include <iostream>
 int main()
 {
