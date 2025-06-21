@@ -1,4 +1,4 @@
-```python
+```c
 #include <iostream>
 int main()
 {
